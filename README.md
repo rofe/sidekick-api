@@ -1,2 +1,2 @@
-# sidekick-api
-API to simplify programmatic interaction with the AEM Sidekick Extension
+# AEM Sidekick API
+This JavaScript API helps project developers communicate with the AEM Sidekick Extension.
